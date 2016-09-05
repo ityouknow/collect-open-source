@@ -1,5 +1,5 @@
-collect-open-source
-==================
+
+[收藏一切开源、有趣、好玩的东西](https://github.com/ityouknow/collect-open-source)
 
 ## 这里收集php相关
 

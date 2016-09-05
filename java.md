@@ -1,8 +1,7 @@
-collect-open-source
-==================
+
+[收藏一切开源、有趣、好玩的东西](https://github.com/ityouknow/collect-open-source)
 
 ## 这里收集java相关
-
 
 
 ### spring boot
@@ -13,7 +12,6 @@ Spring Boot 的目的在于快速创建可以独立运行的 Spring 应用。通
 
 
 ### eclipse 插件
-
 
 #### FindBugs
 FindBugs 是一个静态分析工具，它检查类或者 JAR 文件，将字节码与一组缺陷模式进行对比以发现可能的问题。有了静态分析工具，就可以在不实际运行程序的情况对软件进行分析。
