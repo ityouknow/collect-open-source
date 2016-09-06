@@ -19,6 +19,11 @@ collect-open-source
 
 [工具相关收藏地址](https://github.com/ityouknow/collect-open-source/blob/master/tool.md)
 
+[推荐经典书籍](https://github.com/ityouknow/collect-open-source/blob/master/book.md)
+
+[各种其它地址](https://github.com/ityouknow/collect-open-source/blob/master/website.md)
+
+
 
 
 
