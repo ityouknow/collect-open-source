@@ -10,3 +10,18 @@
 这里面各种技术都有
 
 [博客园地址](http://www.cnblogs.com/)
+
+
+
+#### staggeringbeauty
+有一个小人会根据鼠标来动，挺好玩
+
+[staggeringbeauty 地址](http://www.staggeringbeauty.com/)
+
+
+#### gitter
+一个可以在线和全世界的技术人讨论技术的在线聊天室
+
+[gitter 官网地址](https://gitter.im)
+
+
