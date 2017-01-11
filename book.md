@@ -11,3 +11,9 @@
 
 [电子书下载地址 epub](http://bbs.feng.com/read-htm-tid-8914750.html)
 
+
+
+### 深入理解Java虚拟机
+《深入理解Java虚拟机：JVM高级特性与最佳实践（最新第二版）》如果对jvm内存结果不太熟悉，gc算法不太熟悉，jvm调优无从下手，这本书就可以帮你解决这些问题
+
+[电子书下载地址 pfd](http://download.csdn.net/detail/u014196631/9002551)

@@ -20,6 +20,12 @@
 
 [ico 地址](http://www.ico.la/)
 
+####  smallpdf
+在线处理各种pdf,比如pdf转word,pdf合并，pdf剪裁等等
+
+[smallpdf 地址](https://smallpdf.com/)
+
+
 
 
 ### 电子书
