@@ -24,3 +24,11 @@
 This is probably the best web presentation tool so far!
 
 [nodePPT](https://github.com/ksky521/nodePPT) 
+
+
+
+### 表情包
+Github最有毒的仓库, 中国表情包大集合, 聚欢乐
+
+[ChineseBQB](https://github.com/zhaoolee/) 
+

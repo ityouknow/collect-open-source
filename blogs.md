@@ -11,5 +11,6 @@
 
 
 ### java-my-life
+
 java的各种设计模式的介绍
 [Java设计模式的一些文章]（http://www.cnblogs.com/java-my-life/default.html?page=1）
