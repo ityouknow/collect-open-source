@@ -24,3 +24,16 @@
 非常好的前端资源：设计和UI素材
 
 [稀土区 官网](https://xituqu.com/)
+
+
+### 其它
+ 
+[Admin panel made simple. For Free!](https://tabler.io/)
+
+
+[just-the-docs](https://github.com/pmarsceill/just-the-docs),A modern, high customizable, responsive Jekyll theme for documention with built-in search.
+
+[documentation-theme-jekyll](https://github.com/tomjoht/documentation-theme-jekyll),A Jekyll-based theme designed for documentation and help systems. See the link for detailed instructions on setting up and configuring everything. 
+
+
+[git](https://gifs.joelglovier.com/)
